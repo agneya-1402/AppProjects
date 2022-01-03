@@ -1,0 +1,15 @@
+C:\Users\AgneyaPathare\Documents\AppProjects\Exp_2\Exp_2\bin\Debug\netstandard2.0\Exp_2.deps.json
+C:\Users\AgneyaPathare\Documents\AppProjects\Exp_2\Exp_2\bin\Debug\netstandard2.0\Exp_2.dll
+C:\Users\AgneyaPathare\Documents\AppProjects\Exp_2\Exp_2\bin\Debug\netstandard2.0\ref\Exp_2.dll
+C:\Users\AgneyaPathare\Documents\AppProjects\Exp_2\Exp_2\bin\Debug\netstandard2.0\Exp_2.pdb
+C:\Users\AgneyaPathare\Documents\AppProjects\Exp_2\Exp_2\obj\Debug\netstandard2.0\Exp_2.csproj.AssemblyReference.cache
+C:\Users\AgneyaPathare\Documents\AppProjects\Exp_2\Exp_2\obj\Debug\netstandard2.0\Exp_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AgneyaPathare\Documents\AppProjects\Exp_2\Exp_2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\AgneyaPathare\Documents\AppProjects\Exp_2\Exp_2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\AgneyaPathare\Documents\AppProjects\Exp_2\Exp_2\obj\Debug\netstandard2.0\Exp_2.AssemblyInfoInputs.cache
+C:\Users\AgneyaPathare\Documents\AppProjects\Exp_2\Exp_2\obj\Debug\netstandard2.0\Exp_2.AssemblyInfo.cs
+C:\Users\AgneyaPathare\Documents\AppProjects\Exp_2\Exp_2\obj\Debug\netstandard2.0\Exp_2.csproj.CoreCompileInputs.cache
+C:\Users\AgneyaPathare\Documents\AppProjects\Exp_2\Exp_2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\AgneyaPathare\Documents\AppProjects\Exp_2\Exp_2\obj\Debug\netstandard2.0\Exp_2.dll
+C:\Users\AgneyaPathare\Documents\AppProjects\Exp_2\Exp_2\obj\Debug\netstandard2.0\ref\Exp_2.dll
+C:\Users\AgneyaPathare\Documents\AppProjects\Exp_2\Exp_2\obj\Debug\netstandard2.0\Exp_2.pdb
